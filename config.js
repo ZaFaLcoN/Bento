@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Xiontora',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '40.8028
-	defaultLongitude: '29.4307
+	defaultLatitude: '35.368511
+	defaultLongitude: '34.029228
 
 	// Autochange
 	autoChangeTheme: true,
