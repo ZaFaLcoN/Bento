@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Xiontora',
+	name: 'Xion',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '34.029228
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
