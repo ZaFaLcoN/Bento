@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Xion',
+	name: 'xion',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
